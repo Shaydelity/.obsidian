@@ -2,6 +2,8 @@
 
 These are the configurations I use within my obsidian vault. I use this as a back-up but also use this as an opportunity to share them so that others may be able to take things from them for their own vaults and needs.
 
+> This repository only contains the data.json files of the plugins, not the plugins themselves. To quickly apply everything you can simply copy the plugins folder and paste it in the .obsidian folder and overwrite everything.
+
 ## List of Plugins
 
 This is a list of all the plugins I use and how I configured them.
