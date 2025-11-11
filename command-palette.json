@@ -1,0 +1,10 @@
+{
+  "pinned": [
+    "app:reload",
+    "periodic-notes:open-daily-note",
+    "periodic-notes:prev-daily-note",
+    "file-explorer:move-file",
+    "insert-current-date",
+    "insert-current-time"
+  ]
+}

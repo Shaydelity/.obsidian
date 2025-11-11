@@ -1,0 +1,59 @@
+{
+  "initialized": true,
+  "version": "0.1.0",
+  "substitutions": {
+    "initialized": true,
+    "records": [
+      {
+        "from": "htmlabbr",
+        "to": "<abbr data-tooltip=\"\"></abbr>",
+        "enabled": true
+      },
+      {
+        "from": "-|><|-",
+        "to": "⇋",
+        "enabled": true
+      },
+      {
+        "from": "callout:highlight",
+        "to": "> [!highlight] ^highlight",
+        "enabled": true
+      },
+      {
+        "from": "callout:metadata-top",
+        "to": "> [!dv-metadata-top] Dataview Metadata",
+        "enabled": true
+      },
+      {
+        "from": "callout:metadata-next",
+        "to": "> [!dv-metadata-next] Dataview Metadata",
+        "enabled": true
+      },
+      {
+        "from": "callout:metadata-previous",
+        "to": "> [!dv-metadata-previous] Dataview Metadata",
+        "enabled": true
+      },
+      {
+        "from": ".pagebreak",
+        "to": "<div style=\"page-break-after: always;\"> </div>",
+        "enabled": true
+      },
+      {
+        "from": "/o",
+        "to": "ø",
+        "enabled": true
+      },
+      {
+        "from": "~n",
+        "to": "ñ",
+        "enabled": true
+      },
+      {
+        "from": "...",
+        "to": "…",
+        "enabled": false
+      }
+    ]
+  }
+}

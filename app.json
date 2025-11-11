@@ -1,0 +1,28 @@
+{
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 80
+  },
+  "alwaysUpdateLinks": true,
+  "readableLineLength": false,
+  "showLineNumber": true,
+  "showUnsupportedFiles": true,
+  "spellcheck": true,
+  "livePreview": false,
+  "showIndentGuide": false,
+  "propertiesInDocument": "source",
+  "showInlineTitle": false,
+  "defaultViewMode": "source",
+  "newFileLocation": "root",
+  "tabSize": 4,
+  "attachmentFolderPath": "./",
+  "userIgnoreFilters": [
+    "99 - Meta/Templates/"
+  ],
+  "foldHeading": false,
+  "foldIndent": false,
+  "vimMode": false
+}

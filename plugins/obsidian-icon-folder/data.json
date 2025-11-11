@@ -1,0 +1,333 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiKanban",
+      "TiRvTruck",
+      "FasPersonDrowning",
+      "TiFriends",
+      "SiThunderstore"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [
+      {
+        "rule": "00 - Maps of Content",
+        "icon": "RiGlobeLine",
+        "for": "folders",
+        "order": 0,
+        "useFilePath": false
+      },
+      {
+        "rule": "01 - Projects",
+        "icon": "RiFireLine",
+        "for": "folders",
+        "order": 1
+      },
+      {
+        "rule": "02 - Tornyth",
+        "icon": "RaEyeMonster",
+        "for": "folders",
+        "order": 2
+      },
+      {
+        "rule": "03 - Creative",
+        "icon": "LiPenBox",
+        "for": "folders",
+        "order": 3
+      },
+      {
+        "rule": "04 - Inquiry",
+        "icon": "LiSearch",
+        "for": "folders",
+        "order": 4
+      },
+      {
+        "rule": "05 - Synthesis",
+        "icon": "LiAlbum",
+        "for": "folders",
+        "order": 5
+      },
+      {
+        "rule": "06 - Archive",
+        "icon": "LiArchive",
+        "for": "folders",
+        "order": 8
+      },
+      {
+        "rule": "07 - Personal",
+        "icon": "LiBookUser",
+        "for": "folders",
+        "order": 8
+      },
+      {
+        "rule": "07 - Literature",
+        "icon": "LiBookCopy",
+        "for": "folders",
+        "order": 9
+      },
+      {
+        "rule": "99 - Meta",
+        "icon": "LiSettings",
+        "for": "folders",
+        "order": 9
+      },
+      {
+        "rule": "00 - Vault",
+        "icon": "LiFolderTree",
+        "for": "everything",
+        "order": 10
+      },
+      {
+        "rule": "01 - Life",
+        "icon": "IbHeartbeatMonitor",
+        "for": "everything",
+        "order": 11,
+        "useFilePath": false
+      },
+      {
+        "rule": "Work",
+        "icon": "SiEdeka",
+        "for": "everything",
+        "order": 12
+      },
+      {
+        "rule": "Experiment",
+        "icon": "LiAlertTriangle",
+        "for": "everything",
+        "order": 13
+      },
+      {
+        "rule": "Templates",
+        "icon": "LiCopy",
+        "for": "everything",
+        "order": 14
+      },
+      {
+        "rule": "Insertions",
+        "icon": "LiClipboardCopy",
+        "for": "everything",
+        "order": 15
+      },
+      {
+        "rule": "OneNote",
+        "icon": "SiMicrosoftonenote",
+        "for": "everything",
+        "order": 16
+      },
+      {
+        "rule": "Excalidraw",
+        "icon": "TiTools",
+        "for": "everything",
+        "order": 17
+      },
+      {
+        "rule": "Attachments",
+        "icon": "LiLink",
+        "for": "everything",
+        "order": 19
+      },
+      {
+        "rule": "00 - Daily",
+        "icon": "TiBrandDaysCounter",
+        "for": "everything",
+        "order": 19
+      },
+      {
+        "rule": "01 - Weekly",
+        "icon": "CoCalendarWeek",
+        "for": "everything",
+        "order": 20
+      },
+      {
+        "rule": "02 - Monthly",
+        "icon": "TiCalendarMonth",
+        "for": "everything",
+        "order": 21
+      },
+      {
+        "rule": "03 - Yearly",
+        "icon": "RiCalendarScheduleLine",
+        "for": "everything",
+        "order": 22
+      },
+      {
+        "rule": "04 - People",
+        "icon": "OcPerson16",
+        "for": "everything",
+        "order": 23
+      },
+      {
+        "rule": "05 - Books",
+        "icon": "LiBook",
+        "for": "everything",
+        "order": 24
+      },
+      {
+        "rule": "06 - Shows",
+        "icon": "TiMovie",
+        "for": "everything",
+        "order": 25
+      },
+      {
+        "rule": "07 - Games",
+        "icon": "LiGamepad",
+        "for": "everything",
+        "order": 26
+      },
+      {
+        "rule": "08 - Roleplays",
+        "icon": "SiDungeonsanddragons",
+        "for": "everything",
+        "order": 27
+      },
+      {
+        "rule": "09 - Stories",
+        "icon": "RiBookletLine",
+        "for": "everything",
+        "order": 28
+      },
+      {
+        "rule": "Presentation",
+        "icon": "LiPresentation",
+        "for": "everything",
+        "order": 29
+      },
+      {
+        "rule": "Kanban",
+        "icon": "LiKanban",
+        "for": "everything",
+        "order": 30
+      },
+      {
+        "rule": "Commissions",
+        "icon": "RiGalleryView",
+        "for": "everything",
+        "order": 31
+      },
+      {
+        "rule": "School",
+        "icon": "LiSchool",
+        "for": "everything",
+        "order": 32
+      },
+      {
+        "rule": "Poems",
+        "icon": "LiScroll",
+        "for": "everything",
+        "order": 33
+      },
+      {
+        "rule": "Scenes",
+        "icon": "RiMovieLine",
+        "for": "everything",
+        "order": 34
+      },
+      {
+        "rule": "Tory",
+        "icon": "TiHeartPin",
+        "for": "folders",
+        "order": 35
+      },
+      {
+        "rule": "Discussions",
+        "icon": "OcDiscussionClosed16",
+        "for": "folders",
+        "order": 36
+      },
+      {
+        "rule": "Dual Studies",
+        "icon": "LiPcCase",
+        "for": "everything",
+        "order": 37
+      },
+      {
+        "rule": "Characters",
+        "icon": "OcPerson16",
+        "for": "everything",
+        "order": 38
+      }
+    ],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": true,
+    "iconsInNotesEnabled": false,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "99 - Meta/Templates/T Books.md": "LiBook",
+  "99 - Meta/Templates/T Commissions.md": "RiGalleryView",
+  "99 - Meta/Templates/T Daily.md": "TiBrandDaysCounter",
+  "99 - Meta/Templates/T Games.md": "LiGamepad",
+  "99 - Meta/Templates/T Inquiry.md": "LiSearch",
+  "99 - Meta/Templates/T Life.md": "TiActivityHeartbeat",
+  "99 - Meta/Templates/T Monthly.md": "LiCalendarDays",
+  "99 - Meta/Templates/T Note.md": "CoNote",
+  "99 - Meta/Templates/T Tornyth.md": "RaEyeMonster",
+  "99 - Meta/Templates/T People.md": "OcPerson16",
+  "99 - Meta/Templates/T Poems.md": "LiScroll",
+  "99 - Meta/Templates/T Shows.md": "TiMovie",
+  "99 - Meta/Templates/T Synthesis.md": "LiAlbum",
+  "99 - Meta/Templates/T Vault.md": "LiFolderTree",
+  "99 - Meta/Templates/T Yearly.md": "RiCalendarScheduleLine",
+  "99 - Meta/Templates/T Maps of Content.md": "RiGlobeLine",
+  "99 - Meta/Templates/Insertions/T DE Experiment.md": "FasVialCircleCheck",
+  "99 - Meta/Templates/Insertions/T DE Gedichtsanalyse Gliederung.md": {
+    "iconName": "LiList",
+    "iconColor": "#ffffff"
+  },
+  "99 - Meta/Templates/Insertions/T DE Sachtextanalyse Gliederung.md": {
+    "iconName": "LiList",
+    "iconColor": "#ffffff"
+  },
+  "99 - Meta/Templates/T Anchors of Content.md": "LiAnchor",
+  "99 - Meta/Templates/T Education.md": "LiSchool",
+  "07 - Personal/00 - Daily/2025": "CoChatConversationCircle",
+  "07 - Personal/00 - Daily/2021": "LiCrown",
+  "07 - Personal/00 - Daily/2022": "TiCrown",
+  "07 - Personal/00 - Daily/2023": "TiQuestionMark",
+  "07 - Personal/00 - Daily/2024": "LiComputer",
+  "07 - Personal/02 - Monthly/2025-04.md": "LiMusic",
+  "07 - Personal/02 - Monthly/2025-05.md": "RiCrossLine",
+  "07 - Personal/03 - Yearly/2025.md": "CoChatConversationCircle",
+  "99 - Meta/Templates/T Weekly.md": "CoCalendarWeek",
+  "07 - Personal/02 - Monthly/2025-06.md": "SiObsidian",
+  "Notion - Archived Ideas.md": "SiNotion",
+  "07 - Personal/02 - Monthly/2025-07.md": "LiPartyPopper",
+  "07 - Personal/01 - Weekly/2025-W30.md": "FasUserDoctor",
+  "07 - Personal/01 - Weekly/2025-W25.md": "LiRollerCoaster",
+  "07 - Personal/01 - Weekly/2025-W26.md": "FasMasksTheater",
+  "07 - Personal/01 - Weekly/2025-W27.md": "TiPill",
+  "07 - Personal/01 - Weekly/2025-W28.md": "RiSwordLine",
+  "07 - Personal/02 - Monthly/2025-08.md": "SiEdeka",
+  "07 - Personal/01 - Weekly/2025-W29.md": "RaCrocSword",
+  "07 - Personal/01 - Weekly/2025-W31.md": "RiTaskLine",
+  "07 - Personal/01 - Weekly/2025-W32.md": "SiEdeka",
+  "07 - Personal/01 - Weekly/2025-W33.md": "RaPlayerPain",
+  "99 - Meta/Templates/T Stories.md": "RiBookletLine",
+  "07 - Personal/01 - Weekly/2025-W34.md": "LiPaperclip",
+  "07 - Personal/01 - Weekly/2025-W35.md": "SiOsu",
+  "07 - Personal/01 - Weekly/2025-W36.md": "RaQueenCrown",
+  "07 - Personal/01 - Weekly/2025-W37.md": "SiThunderstore",
+  "07 - Personal/01 - Weekly/2025-W38.md": "TiFriends",
+  "07 - Personal/01 - Weekly/2025-W39.md": "FasPersonDrowning",
+  "07 - Personal/01 - Weekly/2025-W40.md": "TiRvTruck",
+  "07 - Personal/01 - Weekly/2025-W43.md": "LiKanban",
+  "07 - Personal/01 - Weekly/2025-W44.md": "SiThunderstore"
+}

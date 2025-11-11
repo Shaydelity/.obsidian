@@ -1,0 +1,118 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "99 - Meta/Templates",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": false,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "00 - Maps of Content",
+      "template": "99 - Meta/Templates/T Maps of Content.md"
+    },
+    {
+      "folder": "01 - Projects/00 - Kanbans",
+      "template": "99 - Meta/Templates/Kanban/T Project Kanban.md"
+    },
+    {
+      "folder": "01 - Projects/00 - Presentations",
+      "template": "99 - Meta/Templates/T Presentation.md"
+    },
+    {
+      "folder": "02 - Tornyth",
+      "template": "99 - Meta/Templates/T Tornyth.md"
+    },
+    {
+      "folder": "03 - Creative/Characters",
+      "template": "99 - Meta/Templates/T Characters.md"
+    },
+    {
+      "folder": "03 - Creative/Poems",
+      "template": "99 - Meta/Templates/T Poems.md"
+    },
+    {
+      "folder": "03 - Creative/Scenes",
+      "template": "99 - Meta/Templates/T Scenes.md"
+    },
+    {
+      "folder": "04 - Inquiry",
+      "template": "99 - Meta/Templates/T Inquiry.md"
+    },
+    {
+      "folder": "05 - Synthesis",
+      "template": "99 - Meta/Templates/T Synthesis.md"
+    },
+    {
+      "folder": "07 - Personal/00 - Daily",
+      "template": "99 - Meta/Templates/T Daily.md"
+    },
+    {
+      "folder": "07 - Personal/01 - Weekly",
+      "template": "99 - Meta/Templates/T Weekly.md"
+    },
+    {
+      "folder": "07 - Personal/02 - Monthly",
+      "template": "99 - Meta/Templates/T Monthly.md"
+    },
+    {
+      "folder": "07 - Personal/03 - Yearly",
+      "template": "99 - Meta/Templates/T Yearly.md"
+    },
+    {
+      "folder": "07 - Personal/04 - People",
+      "template": "99 - Meta/Templates/T People.md"
+    },
+    {
+      "folder": "07 - Personal/05 - Books",
+      "template": "99 - Meta/Templates/T Books.md"
+    },
+    {
+      "folder": "07 - Personal/06 - Shows",
+      "template": "99 - Meta/Templates/T Shows.md"
+    },
+    {
+      "folder": "07 - Personal/07 - Games",
+      "template": "99 - Meta/Templates/T Games.md"
+    },
+    {
+      "folder": "07 - Personal/09 - Stories",
+      "template": "99 - Meta/Templates/T Stories.md"
+    },
+    {
+      "folder": "99 - Meta/00 - Vault",
+      "template": "99 - Meta/Templates/T Vault.md"
+    },
+    {
+      "folder": "99 - Meta/01 - Life",
+      "template": "99 - Meta/Templates/T Life.md"
+    },
+    {
+      "folder": "/",
+      "template": "99 - Meta/Templates/T Note.md"
+    }
+  ],
+  "enable_file_templates": false,
+  "file_templates": [
+    {
+      "regex": ".*",
+      "template": ""
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [
+    ""
+  ],
+  "startup_templates": [
+    ""
+  ],
+  "intellisense_render": 1
+}
