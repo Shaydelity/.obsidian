@@ -63,7 +63,7 @@ Ordered by the way I see them in obsidian.
 - Periodic Notes: Custom note formats, templates, and creation locations.
 - Settings Search
 - Smart Typography ("obsidian-smart-typography"): Disabled everything but fractions & dashes management
-- Snippe Downloader ("obsidian-snippet-downloader"): Downloads [efemkay/obsidian-modular-css-layout](https://github.com/efemkay/obsidian-modular-css-layout).
+- Snippet Downloader ("obsidian-snippet-downloader"): Downloads [efemkay/obsidian-modular-css-layout](https://github.com/efemkay/obsidian-modular-css-layout).
 - Style Settings: Noctus Theme settings: Line length enabled, PDF-line-length adapted for 11pt
 - Substitutions: Configuration will be explained in another repository, soon-ish
 - Tag Wrangler
