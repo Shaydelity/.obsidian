@@ -132,9 +132,25 @@
       "ffmpegExecutablePath": "",
       "ffmpegCrf": 23,
       "ffmpegPreset": "medium"
+    },
+    {
+      "name": "(Basically Lossless) AVIF",
+      "outputFormat": "AVIF",
+      "quality": 100,
+      "colorDepth": 1,
+      "resizeMode": "None",
+      "desiredWidth": 800,
+      "desiredHeight": 600,
+      "desiredLongestEdge": 1000,
+      "enlargeOrReduce": "Auto",
+      "allowLargerFiles": false,
+      "skipConversionPatterns": "*.avif",
+      "ffmpegExecutablePath": "/etc/profiles/per-user/shaydelity/bin/ffmpeg",
+      "ffmpegCrf": 23,
+      "ffmpegPreset": "veryslow"
     }
   ],
-  "selectedConversionPreset": "Lossless PNG",
+  "selectedConversionPreset": "(Basically Lossless) AVIF",
   "globalPresets": [
     {
       "name": "WebP 75",

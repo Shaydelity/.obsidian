@@ -24,6 +24,8 @@ Ordered by the way I see them in obsidian.
 
 Ordered by the way I see them in obsidian.
 
+More of these plugins are disabled for mobile.
+
 - Advanced Canvas: Everything disabled BUT:
   - Enabled extended commands, metadata caching, note linking (wikilink), native-like file search, portals (+ show edges into portals), Note styles, Edge Styling (+inherit edge color, rounded square & A\* path), Flip Edges, Presentations (+ reset viewport, use arrow keys, use PgUp/PgDown, zoom without padding, fullscreen), Z-Ordering (+ one layer controls), Aspect Ratio control, Auto-Resize (+ default & snap to grid), better read-only (+ disabled grid), edge highlighting (+ incoming), edge selection
 - Advanced Merger (disabled)
@@ -49,13 +51,14 @@ Ordered by the way I see them in obsidian.
 - Find Orphaned Files & Broken Links (disabled)
 - Global Search & Replace
 - Iconize ("obsidian-icon-folder"): A bunch of config for my folder system and some particular files.
-- Image Converted: Set-up to create an attachment folder, to not touch filename, to convert to PNG (lossless), to use wikilink, not to resize
+- Image Converter: Set-up to create an attachment folder, to not touch filename, to convert to AVIF (basically lossless), to use wikilink, not to resize.
   - Set-up to not conflict with Paste Image Rename
 - Importer (disabled)
 - Kanban ("obsidian-kanban"): Standard, nothing changed yet.
 - Latex Suite ("obsidian-latex-suite"): Enabled shortcuts, modified fracture shortcut
 - Lazy Plugin Loader: Disabled plugins that are meant for reorganization and not daily use (Tag Wranger is an exception).
 - Linter ("obsidian-linter"): Ignores mutiple folders, One-line focused YAML, added german & spanish words to not be capitalized in titles, makes sure markdown standards are kept in check. Some more things, please look at it yourself if you want more detail.
+- Maps (disabled)
 - Markitdown File Converter: Not modified yet.
 - Multi Properties (disabled): Recursive, overwrites existing text.
 - Omnisearch: Probably standard config besides enabled caching.
