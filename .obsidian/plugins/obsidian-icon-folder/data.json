@@ -249,6 +249,12 @@
         "icon": "OcPerson16",
         "for": "everything",
         "order": 38
+      },
+      {
+        "rule": "HTML",
+        "icon": "SiHtml5",
+        "for": "everything",
+        "order": 39
       }
     ],
     "extraMargin": {
