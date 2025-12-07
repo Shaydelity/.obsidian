@@ -5,38 +5,8 @@
     "initialized": true,
     "records": [
       {
-        "from": "htmlabbr",
-        "to": "<abbr data-tooltip=\"\"></abbr>",
-        "enabled": true
-      },
-      {
         "from": "-|><|-",
         "to": "⇋",
-        "enabled": true
-      },
-      {
-        "from": "callout:highlight",
-        "to": "> [!highlight] ^highlight",
-        "enabled": true
-      },
-      {
-        "from": "callout:metadata-top",
-        "to": "> [!dv-metadata-top] Dataview Metadata",
-        "enabled": true
-      },
-      {
-        "from": "callout:metadata-next",
-        "to": "> [!dv-metadata-next] Dataview Metadata",
-        "enabled": true
-      },
-      {
-        "from": "callout:metadata-previous",
-        "to": "> [!dv-metadata-previous] Dataview Metadata",
-        "enabled": true
-      },
-      {
-        "from": ".pagebreak",
-        "to": "<div style=\"page-break-after: always;\"> </div>",
         "enabled": true
       },
       {
