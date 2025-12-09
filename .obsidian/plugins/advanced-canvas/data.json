@@ -11,7 +11,7 @@
   ],
   "minNodeSize": 60,
   "maxNodeWidth": -1,
-  "disableFontSizeRelativeToZoom": false,
+  "disableFontSizeRelativeToZoom": true,
   "canvasMetadataCompatibilityEnabled": true,
   "treatFileNodeEdgesAsLinks": false,
   "enableSingleNodeLinks": true,
